@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PeerLRT
 - 👀 I’m interested in CFD
-- 🌱 I’m currently learning OpenFOAM
+- 🧠 I’m currently learning OpenFOAM
 
 <!---
 PeerLRT/PeerLRT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
